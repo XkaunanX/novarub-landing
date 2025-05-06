@@ -35,7 +35,7 @@ export default function Header() {
       <div className="container flex h-16 items-center justify-between mx-auto px-4">
         <div className="flex items-center gap-2">
           <img
-            src="/src/assets/logo.png"
+            src="./novarub-landing/Logo.png"
             alt="Logo Ruedas Pro"
             className="rounded-full h-6 w-auto object-contain"
           />
