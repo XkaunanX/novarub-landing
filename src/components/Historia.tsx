@@ -12,7 +12,7 @@ export default function History() {
   const milestone =
     '1996 - Primer productor latinoamericano de Tyre Curing Bladders'
 
-  const historyImage = './novarub-landing/historia-2.webp'
+  const historyImage = '/novarub-landing/historia-2.webp'
 
   return (
     <section id="historia" className="w-full py-12 md:py-24 lg:py-32 bg-muted">

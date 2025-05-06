@@ -23,9 +23,9 @@ Ubicada en Las Flores, Buenos Aires, nuestra planta industrial cuenta con la tec
   ]
 
   const images = [
-    "./novarub-landing/nosotros-3.webp",
-    "./novarub-landing/nosotros-2.webp",
-    "./novarub-landing/nosotros-1.webp",
+    "/novarub-landing/nosotros-3.webp",
+    "/novarub-landing/nosotros-2.webp",
+    "/novarub-landing/nosotros-1.webp",
   ]
 
   return (
