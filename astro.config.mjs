@@ -11,4 +11,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   integrations: [react()],
+  site: "https://XkaunanX.github.io",
+  base: "novarub-landing",
 });
