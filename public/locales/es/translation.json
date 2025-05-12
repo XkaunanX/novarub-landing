@@ -1,0 +1,81 @@
+{
+  "inicio_header": "Inicio",
+  "nosotros_header": "Nosotros",
+  "historia_header": "Historia",
+  "productos_header": "Productos",
+  "contacto_header": "Contacto",
+  "menu": "Menu",
+  "cambiar_idioma": "Cambiar idioma",
+
+  "inicio": {
+    "titulo": "Soluciones de curado para la industria del neumático",
+    "bladders": "Bladders",
+    "envelopes": "Envelopes",
+    "tubos": "Tubos de curado",
+    "desarrollos": "Desarrollos a Medida",
+    "ver_catalogo": "Ver Catálogo",
+    "contactar": "Contactar"
+  },
+  "nosotros": {
+    "titulo": "Nosotros",
+    "etiqueta": "Conócenos",
+    "info_extendida": "Desde hace más de 50 años, NOVARUB se ha consolidado como referente en la investigación, desarrollo y fabricación de soluciones para el curado y armado de neumáticos. Nuestra trayectoria y compromiso con la calidad nos permiten ofrecer productos confiables y eficaces que responden a las más altas exigencias del mercado.\n\nUbicada en Las Flores, Buenos Aires, nuestra planta industrial cuenta con la tecnología necesaria para diseñar y producir bladders, tubos y envelopes adaptados a múltiples aplicaciones. Gracias a un equipo técnico altamente especializado, desarrollamos soluciones que optimizan el rendimiento de cada etapa del proceso productivo, garantizando eficiencia, durabilidad e innovación constante. En NOVARUB, trabajamos junto a nuestros clientes para brindar respuestas efectivas a los desafíos de la industria del neumático.",
+    "modelos": "Modelos",
+    "clientes": "Clientes",
+    "paises": "Países",
+    "mision_titulo": "Misión",
+    "vision_titulo": "Visión",
+    "valores_titulo": "Valores",
+    "mision_descripcion": "Diseñamos soluciones de curado y armado, priorizando relaciones honestas con clientes y proveedores.",
+    "vision_descripcion": "Buscamos liderar la innovación tecnológica y expandirnos como referentes en servicios para la industria del neumático.",
+    "valores_descripcion": "Nos guiamos por la planificación, la mejora continua, la innovación, la calidad y el compromiso ambiental.",
+    "ampliar": "Ampliar"
+  },
+  "historia": {
+    "etiqueta": "Trayectoria",
+    "titulo": "Nuestra Historia",
+    "contenido": "Inicialmente enfocados en la reconstrucción de neumáticos, evolucionamos hacia la fabricación de materiales esenciales para procesos de curado, como Bandas Precuradas, Curing Bag, Curing Tube y Envelopes. En 1996, marcamos un hito al convertirnos en el primer productor latinoamericano de Tyre Curing Bladders, consolidándonos como proveedores estratégicos de la industria del neumático en Argentina y América Latina.",
+    "hito": "1996 - Primer productor latinoamericano de Tyre Curing Bladders",
+    "ampliar": "Ampliar"
+  },
+  "catalogo": {
+    "titulo": "Nuestros Productos",
+    "etiqueta": "Catalogo",
+    "curing_bladders": "Curing Bladders",
+    "curing_bladders_descripcion": "Moldes internos de caucho para vulcanización bajo calor y presión.",
+    "ver_mas": "Ver más",
+    "envelopes_externos": "Envelopes Externos",
+    "envelopes_externos_descripcion": "Componentes esenciales para recapado que garantizan presión uniforme externa.",
+    "envelopes_internos": "Envelopes Internos (InnerLope)",
+    "envelopes_internos_descripcion": "Ajuste interno para aportar calor y presión uniforme desde dentro.",
+    "curing_tubes_tipo_f": "Curing Tubes Tipo F",
+    "curing_tubes_tipo_f_descripcion": "Tubos para autoclave de vacío que aseguran curado uniforme interno.",
+    "curing_tubes_tipo_g": "Curing Tubes Tipo G",
+    "curing_tubes_tipo_g_descripcion": "Tubos reforzados para curado con moldes rígidos y alta presión interna.",
+    "desarrollos_especiales": "Desarrollos Especiales",
+    "desarrollos_especiales_descripcion": "Soluciones a medida para industrias con requerimientos personalizados.",
+    "ver_completo": "Ver catalogo completo"
+  },
+  "contacto": {
+    "titulo": "Contacta con Nosotros",
+    "descripcion": "¿Necesitás una solución para curado o armado de neumáticos? Nuestro equipo técnico está listo para ayudarte. Contactanos y trabajemos juntos en lo que tu industria necesita.",
+    "telefono": "11 2170 6765",
+    "email": "jtomac@novarub.com.ar",
+    "localidad": "Las Flores, Buenos Aires",
+    "formulario": {
+      "titulo": "Envíanos un mensaje",
+      "nombre_label": "Nombre",
+      "nombre_placeholder": "Tu nombre",
+      "email_label": "Email",
+      "email_placeholder": "tu@email.com",
+      "asunto_label": "Asunto",
+      "asunto_placeholder": "Asunto del mensaje",
+      "mensaje_label": "Mensaje",
+      "mensaje_placeholder": "Escribe tu mensaje aquí...",
+      "submit_button": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "rights_reserved": "© 2025 Novarub. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,74 @@
+{
+    "inicio": {
+      "titulo": "Soluções para cura na indústria de pneus",
+      "bladders": "Bexigas",
+      "envelopes": "Envelopes",
+      "tubos": "Tubos de Cura",
+      "desarrollos": "Desenvolvimentos Sob Medida",
+      "ver_catalogo": "Ver Catálogo",
+      "contactar": "Contatar"
+    },
+    "nosotros": {
+      "titulo": "Sobre Nós",
+      "etiqueta": "Conheça-nos",
+      "info_extendida": "Há mais de 50 anos, a NOVARUB é um marco em pesquisa, desenvolvimento e fabricação de soluções de cura e construção de pneus. Nossa experiência e compromisso com a qualidade nos permitem entregar produtos confiáveis e eficientes que atendem aos mais altos padrões do mercado.\n\nLocalizada em Las Flores, Buenos Aires, nossa planta industrial está equipada com a tecnologia necessária para projetar e produzir bexigas, tubos e envelopes para uma ampla gama de aplicações. Graças a uma equipe técnica altamente especializada, desenvolvemos soluções que aumentam o desempenho em cada etapa do processo de produção, garantindo eficiência, durabilidade e inovação contínua. Na NOVARUB, trabalhamos de perto com nossos clientes para oferecer respostas eficazes aos desafios da indústria de pneus.",
+      "modelos": "Modelos",
+      "clientes": "Clientes",
+      "paises": "Países",
+      "mision_titulo": "Missão",
+      "vision_titulo": "Visão",
+      "valores_titulo": "Valores",
+      "mision_descripcion": "Projetamos soluções de cura e construção de pneus, priorizando relações honestas com clientes e fornecedores.",
+      "vision_descripcion": "Nosso objetivo é liderar a inovação tecnológica e expandir como referência em serviços para a indústria de pneus.",
+      "valores_descripcion": "Somos guiados por planejamento, melhoria contínua, inovação, qualidade e compromisso ambiental.",
+      "ampliar": "Expandir"
+    },
+    "historia": {
+      "etiqueta": "Trajetória",
+      "titulo": "Nossa História",
+      "contenido": "Inicialmente focada na recauchutagem de pneus, evoluímos para a fabricação de materiais essenciais para processos de cura, como Calços Pré-curados, Saco de Cura, Tubo de Cura e Envelopes. Em 1996, alcançamos um marco ao nos tornar o primeiro produtor latino-americano de Bexigas de Cura de Pneus, consolidando-nos como fornecedores estratégicos para a indústria de pneus na Argentina e América Latina.",
+      "hito": "1996 - Primeiro produtor latino-americano de Bexigas de Cura de Pneus",
+      "ampliar": "Expandir"
+    },
+    "catalogo": {
+      "titulo": "Nossos Produtos",
+      "etiqueta": "Catálogo",
+      "curing_bladders": "Bexigas de Cura",
+      "curing_bladders_descripcion": "Moldes internos de borracha para vulcanização sob calor e pressão.",
+      "ver_mas": "Ver mais",
+      "envelopes_externos": "Envelopes Externos",
+      "envelopes_externos_descripcion": "Componentes essenciais para a recauchutagem que garantem pressão externa uniforme.",
+      "envelopes_internos": "Envelopes Internos (InnerLope)",
+      "envelopes_internos_descripcion": "Ajuste interno para fornecer calor e pressão uniforme de dentro para fora.",
+      "curing_tubes_tipo_f": "Tubos de Cura Tipo F",
+      "curing_tubes_tipo_f_descripcion": "Tubos de autoclave a vácuo garantindo cura interna uniforme.",
+      "curing_tubes_tipo_g": "Tubos de Cura Tipo G",
+      "curing_tubes_tipo_g_descripcion": "Tubos reforçados para cura com moldes rígidos e alta pressão interna.",
+      "desarrollos_especiales": "Desenvolvimentos Especiais",
+      "desarrollos_especiales_descripcion": "Soluções sob medida para indústrias com requisitos específicos.",
+      "ver_completo": "Ver catálogo completo"
+    },
+    "contacto": {
+      "titulo": "Entre em Contato",
+      "descripcion": "Precisa de uma solução para cura ou construção de pneus? Nossa equipe técnica está pronta para ajudar. Entre em contato e vamos trabalhar juntos para atender às necessidades de sua indústria.",
+      "telefono": "11 2170 6765",
+      "email": "jtomac@novarub.com.ar",
+      "localidad": "Las Flores, Buenos Aires",
+      "formulario": {
+        "titulo": "Envie-nos uma mensagem",
+        "nombre_label": "Nome",
+        "nombre_placeholder": "Seu nome",
+        "email_label": "Email",
+        "email_placeholder": "seu@email.com",
+        "asunto_label": "Assunto",
+        "asunto_placeholder": "Assunto da mensagem",
+        "mensaje_label": "Mensagem",
+        "mensaje_placeholder": "Escreva sua mensagem aqui...",
+        "submit_button": "Enviar Mensagem"
+      }
+    },
+    "footer": {
+      "rights_reserved": "© 2025 Novarub. Todos os direitos reservados."
+    }
+}
+  

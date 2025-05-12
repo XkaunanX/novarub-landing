@@ -1,0 +1,80 @@
+{
+    "inicio_header": "Home",    
+    "nosotros_header": "About Us",
+    "historia_header": "History",
+    "productos_header": "Products",
+    "contacto_header": "Contact",
+    "bienvenida": "Welcome to Ruedas Pro",
+    "inicio": {
+      "titulo": "Curing solutions for the tire industry",
+      "bladders": "Bladders",
+      "envelopes": "Envelopes",
+      "tubos": "Curing Tubes",
+      "desarrollos": "Custom Developments",
+      "ver_catalogo": "View Catalog",
+      "contactar": "Contact"
+    },
+    "nosotros": {
+      "titulo": "About Us",
+      "etiqueta": "Get to Know Us",
+      "info_extendida": "For over 50 years, NOVARUB has been a benchmark in the research, development, and manufacturing of curing and tire-building solutions. Our experience and commitment to quality allow us to deliver reliable and efficient products that meet the highest market standards.\n\nLocated in Las Flores, Buenos Aires, our industrial plant is equipped with the technology required to design and produce bladders, tubes, and envelopes for a wide range of applications. Thanks to a highly specialized technical team, we develop solutions that enhance performance at every stage of the production process, ensuring efficiency, durability, and continuous innovation. At NOVARUB, we work closely with our clients to provide effective answers to the challenges of the tire industry.",
+      "modelos": "Models",
+      "clientes": "Clients",
+      "paises": "Countries",
+      "mision_titulo": "Mission",
+      "vision_titulo": "Vision",
+      "valores_titulo": "Values",
+      "mision_descripcion": "We design curing and tire-building solutions, prioritizing honest relationships with clients and suppliers.",
+      "vision_descripcion": "We aim to lead technological innovation and expand as a reference in services for the tire industry.",
+      "valores_descripcion": "We are guided by planning, continuous improvement, innovation, quality, and environmental commitment.",
+      "ampliar": "Expand"
+    },
+    "historia": {
+      "etiqueta": "Trajectory",
+      "titulo": "Our History",
+      "contenido": "Initially focused on tire retreading, we evolved into manufacturing essential materials for curing processes, such as Pre-cured Treads, Curing Bag, Curing Tube, and Envelopes. In 1996, we reached a milestone by becoming the first Latin American producer of Tyre Curing Bladders, establishing ourselves as strategic suppliers for the tire industry in Argentina and Latin America.",
+      "hito": "1996 - First Latin American producer of Tyre Curing Bladders",
+      "ampliar": "Expand"
+    },
+    "catalogo": {
+      "titulo": "Our Products",
+      "etiqueta": "Catalog",
+      "curing_bladders": "Curing Bladders",
+      "curing_bladders_descripcion": "Internal rubber molds for vulcanization under heat and pressure.",
+      "ver_mas": "See more",
+      "envelopes_externos": "Outer Envelopes",
+      "envelopes_externos_descripcion": "Essential components for retreading that ensure uniform external pressure.",
+      "envelopes_internos": "Inner Envelopes (InnerLope)",
+      "envelopes_internos_descripcion": "Internal fit to provide heat and uniform pressure from within.",
+      "curing_tubes_tipo_f": "Curing Tubes Type F",
+      "curing_tubes_tipo_f_descripcion": "Vacuum autoclave tubes ensuring uniform internal curing.",
+      "curing_tubes_tipo_g": "Curing Tubes Type G",
+      "curing_tubes_tipo_g_descripcion": "Reinforced tubes for curing with rigid molds and high internal pressure.",
+      "desarrollos_especiales": "Special Developments",
+      "desarrollos_especiales_descripcion": "Custom solutions for industries with specific requirements.",
+      "ver_completo": "See full catalog"
+    },
+    "contacto": {
+      "titulo": "Contact Us",
+      "descripcion": "Do you need a curing or tire-building solution? Our technical team is ready to help. Get in touch and let’s work together on what your industry needs.",
+      "telefono": "11 2170 6765",
+      "email": "jtomac@novarub.com.ar",
+      "localidad": "Las Flores, Buenos Aires",
+      "formulario": {
+        "titulo": "Send us a message",
+        "nombre_label": "Name",
+        "nombre_placeholder": "Your name",
+        "email_label": "Email",
+        "email_placeholder": "your@email.com",
+        "asunto_label": "Subject",
+        "asunto_placeholder": "Subject of the message",
+        "mensaje_label": "Message",
+        "mensaje_placeholder": "Write your message here...",
+        "submit_button": "Send Message"
+      }
+    },
+    "footer": {
+      "rights_reserved": "© 2025 Novarub. All rights reserved."
+    }
+  }
+  
